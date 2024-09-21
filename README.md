@@ -1,32 +1,57 @@
 # DataAnalysts_TailwindTraders_Report
-## About
-This is Tailwind Traders Power BI project. In this project i have created two dashborad using Microsoft Power BI tools. The Tailwind Traders Power BI Project provides an in-depth analysis of the company's profit and sales performance across different products and countries.
+## Project Description
+The dashboards are part of a business intelligence solution for Tailwind Traders, focusing on profitability, sales, and stock metrics across various product lines and geographies. They provide a snapshot of key performance indicators such as profit margins, sales quantities, and revenue distribution by country and product.
 
-## The purpose of the Tailwind Traders Power BI Project
+   * Profit Overview Dashboard: Provides insight into net revenue, gross revenue, and profit margins, categorized by product, country, and over time.
+   
+   * Sales Overview Dashboard: Focuses on sales quantities, stock levels, median sales, and loyalty points, with breakdowns by country and product.
 
-  **>Monitor Financial and Sales Performance**
-  
-  **>Identify Top Products and Markets**
-  
-  **>Improve Decision-Making**
-  
-  **>Analyze Customer Behavior**
-  
-  **>Detect Performance Fluctuations**
+# Business Questions
+
+  1. What are the top-performing products by net revenue?
+  2. How is the revenue distributed across different countries?
+  3. What is the profit trend over time?
+  4. Which country provides the highest profit margin?
+  5. How does the gross revenue evolve over time, and what are the key patterns?  
+  6. What are the median sales across different countries?
+  7. Which products have the highest sales quantities?
+  8. How are loyalty points distributed by country?
+  9. What is the sales trend over time?
+10. How does stock quantity compare across various products?
+
+# Business Objectives
+
+   1. Maximize Product Profitability
+      * Focus on high-revenue-generating products like the Modular Sofa Set and Motion Sensor Alarm.
+   2. Increase Country-Level Profit Margins
+      * Target countries like the USA and UK, which represent a significant portion of the total profits.
+   3. Improve Sales Performance
+      * Boost sales in underperforming regions like France, which could be further explored through product-specific promotions.
+   4. Optimize Stock Levels
+      * Ensure that stock aligns with product demand, avoiding overstock or shortages.
+   5. Enhance Customer Loyalty
+      * Leverage loyalty points distribution to incentivize repeat purchases, especially in high-loyalty regions like the UK and USA.
+ # Business Goals
+
+   * To optimize profitability by identifying top-performing products and markets.
      
+   * To enhance sales strategies by understanding sales distribution across products and regions.
+     
+   * To increase customer loyalty through insights on loyalty point distribution.
+     
+   * To improve inventory management by monitoring stock and sales quantities.
+     
+   * To expand in countries with high profit margins and sales potential.
+
 ## Sales Overview Dashboard
 
 ![Sales_Dashboard](https://github.com/user-attachments/assets/5c5a7d8d-2bc1-472f-82ae-ac40c951e44e)
 
 ### Key Insights From Sales Dashboard:
 
- 1. **High Stock Levels:** The company holds substantial stock at 14K units, indicating preparedness for future sales.
-    
- 2. **Popular Products:** Hand Warmers and Picnic Blankets are top-sellers.
-    
- 3. **Country Contributions:** UAE dominates median sales, with Australia and the USA making significant contributions as well.
-    
- 4. **Sales Volatility:** Similar to the profit dashboard, sales performance is volatile but shows strong peaks in late 2023.
+* UK leads in loyalty points, followed closely by the USA, highlighting strong customer engagement in these regions.
+* Median sales show the highest contribution from UAE (45.07% of total sales), which could indicate an opportunity for further growth in that market.
+* Sales quantities are spread relatively evenly across a range of products, with no single product dominating, which suggests a well-diversified product offering.
 
 ## Profit Overview Dashboard
 
@@ -34,8 +59,8 @@ This is Tailwind Traders Power BI project. In this project i have created two da
 
 ### Key Insights From Profit Dashboard:
 
-  1. **Top Products:** Modular Sofa Set and Motion Sensor Alarm are driving most of the revenue.
-    
-  2. **Countries:** USA and UK are leading in profit contribution.
-    
-  3. **Volatile Profit Margins:** The business has experienced fluctuating profit margins over the year, peaking at certain times.
+* Modular Sofa Set is the highest revenue-generating product, contributing over $928,363.2.
+* The USA contributes the largest portion of yearly profit margin (25.93%), followed by the UK (24.07%).
+* Profits show a fluctuating pattern over time, with peaks around specific months, indicating possible seasonal demand.
+
+**These insights and objectives can help Tailwind Traders refine its business strategies, target high-opportunity markets, and drive profitability while optimizing stock and customer engagement.**
