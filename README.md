@@ -6,7 +6,7 @@ The dashboards are part of a business intelligence solution for Tailwind Traders
    
    * Sales Overview Dashboard: Focuses on sales quantities, stock levels, median sales, and loyalty points, with breakdowns by country and product.
 
-# Business Questions
+## Business Questions
 
   1. What are the top-performing products by net revenue?
   2. How is the revenue distributed across different countries?
@@ -19,7 +19,7 @@ The dashboards are part of a business intelligence solution for Tailwind Traders
   9. What is the sales trend over time?
 10. How does stock quantity compare across various products?
 
-# Business Objectives
+## Business Objectives
 
    1. Maximize Product Profitability
       * Focus on high-revenue-generating products like the Modular Sofa Set and Motion Sensor Alarm.
@@ -31,7 +31,7 @@ The dashboards are part of a business intelligence solution for Tailwind Traders
       * Ensure that stock aligns with product demand, avoiding overstock or shortages.
    5. Enhance Customer Loyalty
       * Leverage loyalty points distribution to incentivize repeat purchases, especially in high-loyalty regions like the UK and USA.
- # Business Goals
+ ## Business Goals
 
    * To optimize profitability by identifying top-performing products and markets.
      
@@ -42,6 +42,11 @@ The dashboards are part of a business intelligence solution for Tailwind Traders
    * To improve inventory management by monitoring stock and sales quantities.
      
    * To expand in countries with high profit margins and sales potential.
+## Tools
+* Microsoft Power BI
+
+## Data Model View
+![Data Model View](https://github.com/user-attachments/assets/d6f3d417-cfe4-4e18-a8c3-83c93f151743)
 
 ## Sales Overview Dashboard
 
