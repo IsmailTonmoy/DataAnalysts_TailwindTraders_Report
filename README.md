@@ -1,6 +1,6 @@
 # DataAnalysts_TailwindTraders_Report
 ## Project Description
-The dashboards are part of a business intelligence solution for Tailwind Traders, focusing on profitability, sales, and stock metrics across various product lines and geographies. They provide a snapshot of key performance indicators such as profit margins, sales quantities, and revenue distribution by country and product.
+The dashboards are part of a business intelligence solution for Tailwind Traders, focusing on profitability, sales, and stock metrics across various product lines and geographies. In the project the key performance indicators are such as profit margins, sales quantities, and revenue distribution by country and product.
 
    * Profit Overview Dashboard: Provides insight into net revenue, gross revenue, and profit margins, categorized by product, country, and over time.
    
